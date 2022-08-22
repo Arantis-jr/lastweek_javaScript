@@ -59,8 +59,7 @@
     questionEl.innerHTML =  currentQuizData.question;
   }
     function getselected(){
-      answerElem.forEach((ans) =>
-       )
+      answerElem.forEach((ans) =>)
 
     }
 
